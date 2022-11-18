@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Techno.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="techno alt down boil0000" x="10" y="10" width="536" height="439" frameX="0" frameY="-5" frameWidth="536" frameHeight="444"/>
+	<SubTexture name="techno alt down boil0001" x="10" y="10" width="536" height="439" frameX="0" frameY="-5" frameWidth="536" frameHeight="444"/>
+	<SubTexture name="techno alt down boil0002" x="556" y="10" width="532" height="444" frameX="-1" frameY="0" frameWidth="536" frameHeight="444"/>
+	<SubTexture name="techno alt down boil0003" x="556" y="10" width="532" height="444" frameX="-1" frameY="0" frameWidth="536" frameHeight="444"/>
+	<SubTexture name="techno alt down boil0004" x="1098" y="10" width="528" height="444" frameX="-4" frameY="0" frameWidth="536" frameHeight="444"/>
+	<SubTexture name="techno alt down boil0005" x="1098" y="10" width="528" height="444" frameX="-4" frameY="0" frameWidth="536" frameHeight="444"/>
+	<SubTexture name="techno alt down boil0006" x="1636" y="10" width="528" height="444" frameX="-4" frameY="0" frameWidth="536" frameHeight="444"/>
+	<SubTexture name="techno alt down boil0007" x="1636" y="10" width="528" height="444" frameX="-4" frameY="0" frameWidth="536" frameHeight="444"/>
+	<SubTexture name="techno alt down boil0008" x="2174" y="10" width="528" height="444" frameX="-4" frameY="0" frameWidth="536" frameHeight="444"/>
+	<SubTexture name="techno alt down boil0009" x="2174" y="10" width="528" height="444" frameX="-4" frameY="0" frameWidth="536" frameHeight="444"/>
+	<SubTexture name="techno alt down boil0010" x="1636" y="10" width="528" height="444" frameX="-4" frameY="0" frameWidth="536" frameHeight="444"/>
+	<SubTexture name="techno alt down boil0011" x="1636" y="10" width="528" height="444" frameX="-4" frameY="0" frameWidth="536" frameHeight="444"/>
+	<SubTexture name="techno alt down boil0012" x="2174" y="10" width="528" height="444" frameX="-4" frameY="0" frameWidth="536" frameHeight="444"/>
+	<SubTexture name="techno alt down boil0013" x="2174" y="10" width="528" height="444" frameX="-4" frameY="0" frameWidth="536" frameHeight="444"/>
+	<SubTexture name="techno alt down boil0014" x="1636" y="10" width="528" height="444" frameX="-4" frameY="0" frameWidth="536" frameHeight="444"/>
+	<SubTexture name="techno alt down boil0015" x="1636" y="10" width="528" height="444" frameX="-4" frameY="0" frameWidth="536" frameHeight="444"/>
+	<SubTexture name="techno alt down boil0016" x="2174" y="10" width="528" height="444" frameX="-4" frameY="0" frameWidth="536" frameHeight="444"/>
+	<SubTexture name="techno alt down boil0017" x="2174" y="10" width="528" height="444" frameX="-4" frameY="0" frameWidth="536" frameHeight="444"/>
+	<SubTexture name="techno alt down boil0018" x="1636" y="10" width="528" height="444" frameX="-4" frameY="0" frameWidth="536" frameHeight="444"/>
+	<SubTexture name="techno alt down boil0019" x="1636" y="10" width="528" height="444" frameX="-4" frameY="0" frameWidth="536" frameHeight="444"/>
+	<SubTexture name="techno alt down boil0020" x="2174" y="10" width="528" height="444" frameX="-4" frameY="0" frameWidth="536" frameHeight="444"/>
+	<SubTexture name="techno alt down boil0021" x="2174" y="10" width="528" height="444" frameX="-4" frameY="0" frameWidth="536" frameHeight="444"/>
+	<SubTexture name="techno alt down boil0022" x="1636" y="10" width="528" height="444" frameX="-4" frameY="0" frameWidth="536" frameHeight="444"/>
+	<SubTexture name="techno alt down boil0023" x="1636" y="10" width="528" height="444" frameX="-4" frameY="0" frameWidth="536" frameHeight="444"/>
+	<SubTexture name="techno alt down boil0024" x="2174" y="10" width="528" height="444" frameX="-4" frameY="0" frameWidth="536" frameHeight="444"/>
+	<SubTexture name="techno alt down boil0025" x="2174" y="10" width="528" height="444" frameX="-4" frameY="0" frameWidth="536" frameHeight="444"/>
+	<SubTexture name="techno alt down boil0026" x="1636" y="10" width="528" height="444" frameX="-4" frameY="0" frameWidth="536" frameHeight="444"/>
+	<SubTexture name="techno alt down boil0027" x="1636" y="10" width="528" height="444" frameX="-4" frameY="0" frameWidth="536" frameHeight="444"/>
+	<SubTexture name="techno alt down boil0028" x="2174" y="10" width="528" height="444" frameX="-4" frameY="0" frameWidth="536" frameHeight="444"/>
+	<SubTexture name="techno alt down boil0029" x="2174" y="10" width="528" height="444" frameX="-4" frameY="0" frameWidth="536" frameHeight="444"/>
+	<SubTexture name="techno alt idle boil0000" x="2712" y="10" width="287" height="612" frameX="0" frameY="-9" frameWidth="294" frameHeight="621"/>
+	<SubTexture name="techno alt idle boil0001" x="2712" y="10" width="287" height="612" frameX="0" frameY="-9" frameWidth="294" frameHeight="621"/>
+	<SubTexture name="techno alt idle boil0002" x="3009" y="10" width="284" height="617" frameX="-2" frameY="-4" frameWidth="294" frameHeight="621"/>
+	<SubTexture name="techno alt idle boil0003" x="3009" y="10" width="284" height="617" frameX="-2" frameY="-4" frameWidth="294" frameHeight="621"/>
+	<SubTexture name="techno alt idle boil0004" x="3303" y="10" width="289" height="620" frameX="-2" frameY="-1" frameWidth="294" frameHeight="621"/>
+	<SubTexture name="techno alt idle boil0005" x="3303" y="10" width="289" height="620" frameX="-2" frameY="-1" frameWidth="294" frameHeight="621"/>
+	<SubTexture name="techno alt idle boil0006" x="3602" y="10" width="292" height="621" frameX="-1" frameY="0" frameWidth="294" frameHeight="621"/>
+	<SubTexture name="techno alt idle boil0007" x="3602" y="10" width="292" height="621" frameX="-1" frameY="0" frameWidth="294" frameHeight="621"/>
+	<SubTexture name="techno alt idle boil0008" x="10" y="641" width="293" height="621" frameX="-1" frameY="0" frameWidth="294" frameHeight="621"/>
+	<SubTexture name="techno alt idle boil0009" x="10" y="641" width="293" height="621" frameX="-1" frameY="0" frameWidth="294" frameHeight="621"/>
+	<SubTexture name="techno alt idle boil0010" x="313" y="641" width="293" height="621" frameX="-1" frameY="0" frameWidth="294" frameHeight="621"/>
+	<SubTexture name="techno alt idle boil0011" x="313" y="641" width="293" height="621" frameX="-1" frameY="0" frameWidth="294" frameHeight="621"/>
+	<SubTexture name="techno alt idle boil0012" x="616" y="641" width="294" height="621"/>
+	<SubTexture name="techno alt idle boil0013" x="616" y="641" width="294" height="621"/>
+	<SubTexture name="techno alt left boil0000" x="920" y="641" width="405" height="566" frameX="0" frameY="-10" frameWidth="406" frameHeight="576"/>
+	<SubTexture name="techno alt left boil0001" x="920" y="641" width="405" height="566" frameX="0" frameY="-10" frameWidth="406" frameHeight="576"/>
+	<SubTexture name="techno alt left boil0002" x="1335" y="641" width="403" height="575" frameX="-3" frameY="-1" frameWidth="406" frameHeight="576"/>
+	<SubTexture name="techno alt left boil0003" x="1335" y="641" width="403" height="575" frameX="-3" frameY="-1" frameWidth="406" frameHeight="576"/>
+	<SubTexture name="techno alt left boil0004" x="1748" y="641" width="401" height="576" frameX="-5" frameY="0" frameWidth="406" frameHeight="576"/>
+	<SubTexture name="techno alt left boil0005" x="1748" y="641" width="401" height="576" frameX="-5" frameY="0" frameWidth="406" frameHeight="576"/>
+	<SubTexture name="techno alt left boil0006" x="2159" y="641" width="402" height="576" frameX="-4" frameY="0" frameWidth="406" frameHeight="576"/>
+	<SubTexture name="techno alt left boil0007" x="2159" y="641" width="402" height="576" frameX="-4" frameY="0" frameWidth="406" frameHeight="576"/>
+	<SubTexture name="techno alt left boil0008" x="2571" y="641" width="401" height="576" frameX="-5" frameY="0" frameWidth="406" frameHeight="576"/>
+	<SubTexture name="techno alt left boil0009" x="2571" y="641" width="401" height="576" frameX="-5" frameY="0" frameWidth="406" frameHeight="576"/>
+	<SubTexture name="techno alt left boil0010" x="2159" y="641" width="402" height="576" frameX="-4" frameY="0" frameWidth="406" frameHeight="576"/>
+	<SubTexture name="techno alt left boil0011" x="2159" y="641" width="402" height="576" frameX="-4" frameY="0" frameWidth="406" frameHeight="576"/>
+	<SubTexture name="techno alt left boil0012" x="2571" y="641" width="401" height="576" frameX="-5" frameY="0" frameWidth="406" frameHeight="576"/>
+	<SubTexture name="techno alt left boil0013" x="2571" y="641" width="401" height="576" frameX="-5" frameY="0" frameWidth="406" frameHeight="576"/>
+	<SubTexture name="techno alt left boil0014" x="2159" y="641" width="402" height="576" frameX="-4" frameY="0" frameWidth="406" frameHeight="576"/>
+	<SubTexture name="techno alt left boil0015" x="2159" y="641" width="402" height="576" frameX="-4" frameY="0" frameWidth="406" frameHeight="576"/>
+	<SubTexture name="techno alt left boil0016" x="2571" y="641" width="401" height="576" frameX="-5" frameY="0" frameWidth="406" frameHeight="576"/>
+	<SubTexture name="techno alt left boil0017" x="2571" y="641" width="401" height="576" frameX="-5" frameY="0" frameWidth="406" frameHeight="576"/>
+	<SubTexture name="techno alt left boil0018" x="2159" y="641" width="402" height="576" frameX="-4" frameY="0" frameWidth="406" frameHeight="576"/>
+	<SubTexture name="techno alt left boil0019" x="2159" y="641" width="402" height="576" frameX="-4" frameY="0" frameWidth="406" frameHeight="576"/>
+	<SubTexture name="techno alt left boil0020" x="2571" y="641" width="401" height="576" frameX="-5" frameY="0" frameWidth="406" frameHeight="576"/>
+	<SubTexture name="techno alt left boil0021" x="2571" y="641" width="401" height="576" frameX="-5" frameY="0" frameWidth="406" frameHeight="576"/>
+	<SubTexture name="techno alt left boil0022" x="2159" y="641" width="402" height="576" frameX="-4" frameY="0" frameWidth="406" frameHeight="576"/>
+	<SubTexture name="techno alt left boil0023" x="2159" y="641" width="402" height="576" frameX="-4" frameY="0" frameWidth="406" frameHeight="576"/>
+	<SubTexture name="techno alt left boil0024" x="2571" y="641" width="401" height="576" frameX="-5" frameY="0" frameWidth="406" frameHeight="576"/>
+	<SubTexture name="techno alt left boil0025" x="2571" y="641" width="401" height="576" frameX="-5" frameY="0" frameWidth="406" frameHeight="576"/>
+	<SubTexture name="techno alt left boil0026" x="2159" y="641" width="402" height="576" frameX="-4" frameY="0" frameWidth="406" frameHeight="576"/>
+	<SubTexture name="techno alt left boil0027" x="2159" y="641" width="402" height="576" frameX="-4" frameY="0" frameWidth="406" frameHeight="576"/>
+	<SubTexture name="techno alt left boil0028" x="2571" y="641" width="401" height="576" frameX="-5" frameY="0" frameWidth="406" frameHeight="576"/>
+	<SubTexture name="techno alt left boil0029" x="2571" y="641" width="401" height="576" frameX="-5" frameY="0" frameWidth="406" frameHeight="576"/>
+	<SubTexture name="techno alt right boil0000" x="2982" y="641" width="481" height="560" frameX="-2" frameY="0" frameWidth="483" frameHeight="560"/>
+	<SubTexture name="techno alt right boil0001" x="2982" y="641" width="481" height="560" frameX="-2" frameY="0" frameWidth="483" frameHeight="560"/>
+	<SubTexture name="techno alt right boil0002" x="3473" y="641" width="483" height="548" frameX="0" frameY="-12" frameWidth="483" frameHeight="560"/>
+	<SubTexture name="techno alt right boil0003" x="3473" y="641" width="483" height="548" frameX="0" frameY="-12" frameWidth="483" frameHeight="560"/>
+	<SubTexture name="techno alt right boil0004" x="10" y="1272" width="482" height="549" frameX="0" frameY="-11" frameWidth="483" frameHeight="560"/>
+	<SubTexture name="techno alt right boil0005" x="10" y="1272" width="482" height="549" frameX="0" frameY="-11" frameWidth="483" frameHeight="560"/>
+	<SubTexture name="techno alt right boil0006" x="502" y="1272" width="483" height="549" frameX="0" frameY="-11" frameWidth="483" frameHeight="560"/>
+	<SubTexture name="techno alt right boil0007" x="502" y="1272" width="483" height="549" frameX="0" frameY="-11" frameWidth="483" frameHeight="560"/>
+	<SubTexture name="techno alt right boil0008" x="995" y="1272" width="482" height="549" frameX="0" frameY="-11" frameWidth="483" frameHeight="560"/>
+	<SubTexture name="techno alt right boil0009" x="995" y="1272" width="482" height="549" frameX="0" frameY="-11" frameWidth="483" frameHeight="560"/>
+	<SubTexture name="techno alt right boil0010" x="502" y="1272" width="483" height="549" frameX="0" frameY="-11" frameWidth="483" frameHeight="560"/>
+	<SubTexture name="techno alt right boil0011" x="502" y="1272" width="483" height="549" frameX="0" frameY="-11" frameWidth="483" frameHeight="560"/>
+	<SubTexture name="techno alt right boil0012" x="995" y="1272" width="482" height="549" frameX="0" frameY="-11" frameWidth="483" frameHeight="560"/>
+	<SubTexture name="techno alt right boil0013" x="995" y="1272" width="482" height="549" frameX="0" frameY="-11" frameWidth="483" frameHeight="560"/>
+	<SubTexture name="techno alt right boil0014" x="502" y="1272" width="483" height="549" frameX="0" frameY="-11" frameWidth="483" frameHeight="560"/>
+	<SubTexture name="techno alt right boil0015" x="502" y="1272" width="483" height="549" frameX="0" frameY="-11" frameWidth="483" frameHeight="560"/>
+	<SubTexture name="techno alt right boil0016" x="995" y="1272" width="482" height="549" frameX="0" frameY="-11" frameWidth="483" frameHeight="560"/>
+	<SubTexture name="techno alt right boil0017" x="995" y="1272" width="482" height="549" frameX="0" frameY="-11" frameWidth="483" frameHeight="560"/>
+	<SubTexture name="techno alt right boil0018" x="502" y="1272" width="483" height="549" frameX="0" frameY="-11" frameWidth="483" frameHeight="560"/>
+	<SubTexture name="techno alt right boil0019" x="502" y="1272" width="483" height="549" frameX="0" frameY="-11" frameWidth="483" frameHeight="560"/>
+	<SubTexture name="techno alt right boil0020" x="995" y="1272" width="482" height="549" frameX="0" frameY="-11" frameWidth="483" frameHeight="560"/>
+	<SubTexture name="techno alt right boil0021" x="995" y="1272" width="482" height="549" frameX="0" frameY="-11" frameWidth="483" frameHeight="560"/>
+	<SubTexture name="techno alt right boil0022" x="502" y="1272" width="483" height="549" frameX="0" frameY="-11" frameWidth="483" frameHeight="560"/>
+	<SubTexture name="techno alt right boil0023" x="502" y="1272" width="483" height="549" frameX="0" frameY="-11" frameWidth="483" frameHeight="560"/>
+	<SubTexture name="techno alt right boil0024" x="995" y="1272" width="482" height="549" frameX="0" frameY="-11" frameWidth="483" frameHeight="560"/>
+	<SubTexture name="techno alt right boil0025" x="995" y="1272" width="482" height="549" frameX="0" frameY="-11" frameWidth="483" frameHeight="560"/>
+	<SubTexture name="techno alt right boil0026" x="502" y="1272" width="483" height="549" frameX="0" frameY="-11" frameWidth="483" frameHeight="560"/>
+	<SubTexture name="techno alt right boil0027" x="502" y="1272" width="483" height="549" frameX="0" frameY="-11" frameWidth="483" frameHeight="560"/>
+	<SubTexture name="techno alt right boil0028" x="995" y="1272" width="482" height="549" frameX="0" frameY="-11" frameWidth="483" frameHeight="560"/>
+	<SubTexture name="techno alt right boil0029" x="995" y="1272" width="482" height="549" frameX="0" frameY="-11" frameWidth="483" frameHeight="560"/>
+	<SubTexture name="techno alt up boil0000" x="1487" y="1272" width="278" height="633" frameX="-3" frameY="0" frameWidth="281" frameHeight="634"/>
+	<SubTexture name="techno alt up boil0001" x="1487" y="1272" width="278" height="633" frameX="-3" frameY="0" frameWidth="281" frameHeight="634"/>
+	<SubTexture name="techno alt up boil0002" x="1775" y="1272" width="274" height="629" frameX="0" frameY="-5" frameWidth="281" frameHeight="634"/>
+	<SubTexture name="techno alt up boil0003" x="1775" y="1272" width="274" height="629" frameX="0" frameY="-5" frameWidth="281" frameHeight="634"/>
+	<SubTexture name="techno alt up boil0004" x="2059" y="1272" width="271" height="627" frameX="-1" frameY="-6" frameWidth="281" frameHeight="634"/>
+	<SubTexture name="techno alt up boil0005" x="2059" y="1272" width="271" height="627" frameX="-1" frameY="-6" frameWidth="281" frameHeight="634"/>
+	<SubTexture name="techno alt up boil0006" x="2340" y="1272" width="271" height="628" frameX="-1" frameY="-6" frameWidth="281" frameHeight="634"/>
+	<SubTexture name="techno alt up boil0007" x="2340" y="1272" width="271" height="628" frameX="-1" frameY="-6" frameWidth="281" frameHeight="634"/>
+	<SubTexture name="techno alt up boil0008" x="2621" y="1272" width="271" height="628" frameX="-1" frameY="-6" frameWidth="281" frameHeight="634"/>
+	<SubTexture name="techno alt up boil0009" x="2621" y="1272" width="271" height="628" frameX="-1" frameY="-6" frameWidth="281" frameHeight="634"/>
+	<SubTexture name="techno alt up boil0010" x="2340" y="1272" width="271" height="628" frameX="-1" frameY="-6" frameWidth="281" frameHeight="634"/>
+	<SubTexture name="techno alt up boil0011" x="2340" y="1272" width="271" height="628" frameX="-1" frameY="-6" frameWidth="281" frameHeight="634"/>
+	<SubTexture name="techno alt up boil0012" x="2621" y="1272" width="271" height="628" frameX="-1" frameY="-6" frameWidth="281" frameHeight="634"/>
+	<SubTexture name="techno alt up boil0013" x="2621" y="1272" width="271" height="628" frameX="-1" frameY="-6" frameWidth="281" frameHeight="634"/>
+	<SubTexture name="techno alt up boil0014" x="2340" y="1272" width="271" height="628" frameX="-1" frameY="-6" frameWidth="281" frameHeight="634"/>
+	<SubTexture name="techno alt up boil0015" x="2340" y="1272" width="271" height="628" frameX="-1" frameY="-6" frameWidth="281" frameHeight="634"/>
+	<SubTexture name="techno alt up boil0016" x="2621" y="1272" width="271" height="628" frameX="-1" frameY="-6" frameWidth="281" frameHeight="634"/>
+	<SubTexture name="techno alt up boil0017" x="2621" y="1272" width="271" height="628" frameX="-1" frameY="-6" frameWidth="281" frameHeight="634"/>
+	<SubTexture name="techno alt up boil0018" x="2340" y="1272" width="271" height="628" frameX="-1" frameY="-6" frameWidth="281" frameHeight="634"/>
+	<SubTexture name="techno alt up boil0019" x="2340" y="1272" width="271" height="628" frameX="-1" frameY="-6" frameWidth="281" frameHeight="634"/>
+	<SubTexture name="techno alt up boil0020" x="2621" y="1272" width="271" height="628" frameX="-1" frameY="-6" frameWidth="281" frameHeight="634"/>
+	<SubTexture name="techno alt up boil0021" x="2621" y="1272" width="271" height="628" frameX="-1" frameY="-6" frameWidth="281" frameHeight="634"/>
+	<SubTexture name="techno alt up boil0022" x="2340" y="1272" width="271" height="628" frameX="-1" frameY="-6" frameWidth="281" frameHeight="634"/>
+	<SubTexture name="techno alt up boil0023" x="2340" y="1272" width="271" height="628" frameX="-1" frameY="-6" frameWidth="281" frameHeight="634"/>
+	<SubTexture name="techno alt up boil0024" x="2621" y="1272" width="271" height="628" frameX="-1" frameY="-6" frameWidth="281" frameHeight="634"/>
+	<SubTexture name="techno alt up boil0025" x="2621" y="1272" width="271" height="628" frameX="-1" frameY="-6" frameWidth="281" frameHeight="634"/>
+	<SubTexture name="techno alt up boil0026" x="2340" y="1272" width="271" height="628" frameX="-1" frameY="-6" frameWidth="281" frameHeight="634"/>
+	<SubTexture name="techno alt up boil0027" x="2340" y="1272" width="271" height="628" frameX="-1" frameY="-6" frameWidth="281" frameHeight="634"/>
+	<SubTexture name="techno alt up boil0028" x="2621" y="1272" width="271" height="628" frameX="-1" frameY="-6" frameWidth="281" frameHeight="634"/>
+	<SubTexture name="techno alt up boil0029" x="2621" y="1272" width="271" height="628" frameX="-1" frameY="-6" frameWidth="281" frameHeight="634"/>
+	<SubTexture name="techno down0000" x="2902" y="1272" width="378" height="412" frameX="0" frameY="-3" frameWidth="378" frameHeight="415"/>
+	<SubTexture name="techno down0001" x="2902" y="1272" width="378" height="412" frameX="0" frameY="-3" frameWidth="378" frameHeight="415"/>
+	<SubTexture name="techno down0002" x="3290" y="1272" width="368" height="412" frameX="-8" frameY="-3" frameWidth="378" frameHeight="415"/>
+	<SubTexture name="techno down0003" x="3290" y="1272" width="368" height="412" frameX="-8" frameY="-3" frameWidth="378" frameHeight="415"/>
+	<SubTexture name="techno down0004" x="3668" y="1272" width="368" height="415" frameX="-6" frameY="0" frameWidth="378" frameHeight="415"/>
+	<SubTexture name="techno down0005" x="3668" y="1272" width="368" height="415" frameX="-6" frameY="0" frameWidth="378" frameHeight="415"/>
+	<SubTexture name="techno down0006" x="10" y="1915" width="368" height="415" frameX="-6" frameY="0" frameWidth="378" frameHeight="415"/>
+	<SubTexture name="techno down0007" x="10" y="1915" width="368" height="415" frameX="-6" frameY="0" frameWidth="378" frameHeight="415"/>
+	<SubTexture name="techno down0008" x="10" y="1915" width="368" height="415" frameX="-6" frameY="0" frameWidth="378" frameHeight="415"/>
+	<SubTexture name="techno gr0000" x="388" y="1915" width="294" height="621" frameX="-5" frameY="-1" frameWidth="299" frameHeight="622"/>
+	<SubTexture name="techno gr0001" x="388" y="1915" width="294" height="621" frameX="-5" frameY="-1" frameWidth="299" frameHeight="622"/>
+	<SubTexture name="techno gr0002" x="692" y="1915" width="286" height="618" frameX="-13" frameY="-4" frameWidth="299" frameHeight="622"/>
+	<SubTexture name="techno gr0003" x="692" y="1915" width="286" height="618" frameX="-13" frameY="-4" frameWidth="299" frameHeight="622"/>
+	<SubTexture name="techno gr0004" x="988" y="1915" width="281" height="617" frameX="-18" frameY="-5" frameWidth="299" frameHeight="622"/>
+	<SubTexture name="techno gr0005" x="988" y="1915" width="281" height="617" frameX="-18" frameY="-5" frameWidth="299" frameHeight="622"/>
+	<SubTexture name="techno gr0006" x="1279" y="1915" width="282" height="615" frameX="-16" frameY="-7" frameWidth="299" frameHeight="622"/>
+	<SubTexture name="techno gr0007" x="1279" y="1915" width="282" height="615" frameX="-16" frameY="-7" frameWidth="299" frameHeight="622"/>
+	<SubTexture name="techno gr0008" x="1571" y="1915" width="283" height="617" frameX="-16" frameY="-5" frameWidth="299" frameHeight="622"/>
+	<SubTexture name="techno gr0009" x="1571" y="1915" width="283" height="617" frameX="-16" frameY="-5" frameWidth="299" frameHeight="622"/>
+	<SubTexture name="techno gr0010" x="1864" y="1915" width="283" height="618" frameX="-16" frameY="-4" frameWidth="299" frameHeight="622"/>
+	<SubTexture name="techno gr0011" x="1864" y="1915" width="283" height="618" frameX="-16" frameY="-4" frameWidth="299" frameHeight="622"/>
+	<SubTexture name="techno gr0012" x="2157" y="1915" width="283" height="618" frameX="-16" frameY="-4" frameWidth="299" frameHeight="622"/>
+	<SubTexture name="techno gr0013" x="2450" y="1915" width="283" height="618" frameX="-16" frameY="-4" frameWidth="299" frameHeight="622"/>
+	<SubTexture name="techno gr0014" x="2450" y="1915" width="283" height="618" frameX="-16" frameY="-4" frameWidth="299" frameHeight="622"/>
+	<SubTexture name="techno gr0015" x="2743" y="1915" width="286" height="618" frameX="-13" frameY="-4" frameWidth="299" frameHeight="622"/>
+	<SubTexture name="techno gr0016" x="2743" y="1915" width="286" height="618" frameX="-13" frameY="-4" frameWidth="299" frameHeight="622"/>
+	<SubTexture name="techno gr0017" x="3039" y="1915" width="296" height="618" frameX="-3" frameY="-4" frameWidth="299" frameHeight="622"/>
+	<SubTexture name="techno gr0018" x="3039" y="1915" width="296" height="618" frameX="-3" frameY="-4" frameWidth="299" frameHeight="622"/>
+	<SubTexture name="techno gr0019" x="3345" y="1915" width="296" height="617" frameX="-3" frameY="-5" frameWidth="299" frameHeight="622"/>
+	<SubTexture name="techno gr0020" x="3345" y="1915" width="296" height="617" frameX="-3" frameY="-5" frameWidth="299" frameHeight="622"/>
+	<SubTexture name="techno gr0021" x="3651" y="1915" width="299" height="617" frameX="0" frameY="-5" frameWidth="299" frameHeight="622"/>
+	<SubTexture name="techno gr0022" x="10" y="2546" width="292" height="622" frameX="-7" frameY="0" frameWidth="299" frameHeight="622"/>
+	<SubTexture name="techno gr0023" x="10" y="2546" width="292" height="622" frameX="-7" frameY="0" frameWidth="299" frameHeight="622"/>
+	<SubTexture name="techno gr0024" x="312" y="2546" width="294" height="621" frameX="-5" frameY="-1" frameWidth="299" frameHeight="622"/>
+	<SubTexture name="techno gr0025" x="312" y="2546" width="294" height="621" frameX="-5" frameY="-1" frameWidth="299" frameHeight="622"/>
+	<SubTexture name="techno gr0026" x="616" y="2546" width="294" height="621" frameX="-5" frameY="-1" frameWidth="299" frameHeight="622"/>
+	<SubTexture name="techno gr0027" x="616" y="2546" width="294" height="621" frameX="-5" frameY="-1" frameWidth="299" frameHeight="622"/>
+	<SubTexture name="techno gr0028" x="920" y="2546" width="294" height="621" frameX="-5" frameY="-1" frameWidth="299" frameHeight="622"/>
+	<SubTexture name="techno gr0029" x="920" y="2546" width="294" height="621" frameX="-5" frameY="-1" frameWidth="299" frameHeight="622"/>
+	<SubTexture name="techno gr0030" x="616" y="2546" width="294" height="621" frameX="-5" frameY="-1" frameWidth="299" frameHeight="622"/>
+	<SubTexture name="techno gr0031" x="616" y="2546" width="294" height="621" frameX="-5" frameY="-1" frameWidth="299" frameHeight="622"/>
+	<SubTexture name="techno gr0032" x="920" y="2546" width="294" height="621" frameX="-5" frameY="-1" frameWidth="299" frameHeight="622"/>
+	<SubTexture name="techno gr0033" x="920" y="2546" width="294" height="621" frameX="-5" frameY="-1" frameWidth="299" frameHeight="622"/>
+	<SubTexture name="techno gr0034" x="616" y="2546" width="294" height="621" frameX="-5" frameY="-1" frameWidth="299" frameHeight="622"/>
+	<SubTexture name="techno idle0000" x="1224" y="2546" width="287" height="612" frameX="0" frameY="-9" frameWidth="294" frameHeight="621"/>
+	<SubTexture name="techno idle0001" x="1224" y="2546" width="287" height="612" frameX="0" frameY="-9" frameWidth="294" frameHeight="621"/>
+	<SubTexture name="techno idle0002" x="1521" y="2546" width="285" height="617" frameX="-1" frameY="-4" frameWidth="294" frameHeight="621"/>
+	<SubTexture name="techno idle0003" x="1521" y="2546" width="285" height="617" frameX="-1" frameY="-4" frameWidth="294" frameHeight="621"/>
+	<SubTexture name="techno idle0004" x="1816" y="2546" width="290" height="620" frameX="-1" frameY="-1" frameWidth="294" frameHeight="621"/>
+	<SubTexture name="techno idle0005" x="1816" y="2546" width="290" height="620" frameX="-1" frameY="-1" frameWidth="294" frameHeight="621"/>
+	<SubTexture name="techno idle0006" x="2116" y="2546" width="293" height="621" frameX="0" frameY="0" frameWidth="294" frameHeight="621"/>
+	<SubTexture name="techno idle0007" x="2116" y="2546" width="293" height="621" frameX="0" frameY="0" frameWidth="294" frameHeight="621"/>
+	<SubTexture name="techno idle0008" x="2419" y="2546" width="294" height="621"/>
+	<SubTexture name="techno idle0009" x="2419" y="2546" width="294" height="621"/>
+	<SubTexture name="techno idle0010" x="2419" y="2546" width="294" height="621"/>
+	<SubTexture name="techno idle0011" x="2419" y="2546" width="294" height="621"/>
+	<SubTexture name="techno idle0012" x="2419" y="2546" width="294" height="621"/>
+	<SubTexture name="techno idle0013" x="2419" y="2546" width="294" height="621"/>
+	<SubTexture name="techno left0000" x="2723" y="2546" width="370" height="617" frameX="-17" frameY="-5" frameWidth="410" frameHeight="622"/>
+	<SubTexture name="techno left0001" x="2723" y="2546" width="370" height="617" frameX="-17" frameY="-5" frameWidth="410" frameHeight="622"/>
+	<SubTexture name="techno left0002" x="3103" y="2546" width="408" height="622" frameX="0" frameY="0" frameWidth="410" frameHeight="622"/>
+	<SubTexture name="techno left0003" x="3103" y="2546" width="408" height="622" frameX="0" frameY="0" frameWidth="410" frameHeight="622"/>
+	<SubTexture name="techno left0004" x="3521" y="2546" width="401" height="622" frameX="-9" frameY="0" frameWidth="410" frameHeight="622"/>
+	<SubTexture name="techno left0005" x="3521" y="2546" width="401" height="622" frameX="-9" frameY="0" frameWidth="410" frameHeight="622"/>
+	<SubTexture name="techno left0006" x="10" y="3178" width="400" height="622" frameX="-10" frameY="0" frameWidth="410" frameHeight="622"/>
+	<SubTexture name="techno left0007" x="10" y="3178" width="400" height="622" frameX="-10" frameY="0" frameWidth="410" frameHeight="622"/>
+	<SubTexture name="techno left0008" x="10" y="3178" width="400" height="622" frameX="-10" frameY="0" frameWidth="410" frameHeight="622"/>
+	<SubTexture name="techno right0000" x="420" y="3178" width="280" height="614" frameX="-5" frameY="-9" frameWidth="285" frameHeight="623"/>
+	<SubTexture name="techno right0001" x="420" y="3178" width="280" height="614" frameX="-5" frameY="-9" frameWidth="285" frameHeight="623"/>
+	<SubTexture name="techno right0002" x="710" y="3178" width="272" height="623" frameX="0" frameY="0" frameWidth="285" frameHeight="623"/>
+	<SubTexture name="techno right0003" x="710" y="3178" width="272" height="623" frameX="0" frameY="0" frameWidth="285" frameHeight="623"/>
+	<SubTexture name="techno right0004" x="992" y="3178" width="270" height="615" frameX="0" frameY="-8" frameWidth="285" frameHeight="623"/>
+	<SubTexture name="techno right0005" x="992" y="3178" width="270" height="615" frameX="0" frameY="-8" frameWidth="285" frameHeight="623"/>
+	<SubTexture name="techno right0006" x="1272" y="3178" width="270" height="615" frameX="0" frameY="-8" frameWidth="285" frameHeight="623"/>
+	<SubTexture name="techno right0007" x="1272" y="3178" width="270" height="615" frameX="0" frameY="-8" frameWidth="285" frameHeight="623"/>
+	<SubTexture name="techno right0008" x="1272" y="3178" width="270" height="615" frameX="0" frameY="-8" frameWidth="285" frameHeight="623"/>
+	<SubTexture name="techno up0000" x="1552" y="3178" width="300" height="642" frameX="-11" frameY="0" frameWidth="313" frameHeight="642"/>
+	<SubTexture name="techno up0001" x="1552" y="3178" width="300" height="642" frameX="-11" frameY="0" frameWidth="313" frameHeight="642"/>
+	<SubTexture name="techno up0002" x="1862" y="3178" width="313" height="626" frameX="0" frameY="-16" frameWidth="313" frameHeight="642"/>
+	<SubTexture name="techno up0003" x="1862" y="3178" width="313" height="626" frameX="0" frameY="-16" frameWidth="313" frameHeight="642"/>
+	<SubTexture name="techno up0004" x="2185" y="3178" width="308" height="628" frameX="-5" frameY="-14" frameWidth="313" frameHeight="642"/>
+	<SubTexture name="techno up0005" x="2185" y="3178" width="308" height="628" frameX="-5" frameY="-14" frameWidth="313" frameHeight="642"/>
+	<SubTexture name="techno up0006" x="2503" y="3178" width="307" height="628" frameX="-6" frameY="-14" frameWidth="313" frameHeight="642"/>
+	<SubTexture name="techno up0007" x="2503" y="3178" width="307" height="628" frameX="-6" frameY="-14" frameWidth="313" frameHeight="642"/>
+	<SubTexture name="techno up0008" x="2503" y="3178" width="307" height="628" frameX="-6" frameY="-14" frameWidth="313" frameHeight="642"/>
+</TextureAtlas>

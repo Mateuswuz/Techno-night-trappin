@@ -1,0 +1,323 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="trap.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="trap alt down boil0000" x="10" y="10" width="487" height="421" frameX="0" frameY="-11" frameWidth="488" frameHeight="433"/>
+	<SubTexture name="trap alt down boil0001" x="10" y="10" width="487" height="421" frameX="0" frameY="-11" frameWidth="488" frameHeight="433"/>
+	<SubTexture name="trap alt down boil0002" x="507" y="10" width="486" height="430" frameX="-2" frameY="-3" frameWidth="488" frameHeight="433"/>
+	<SubTexture name="trap alt down boil0003" x="507" y="10" width="486" height="430" frameX="-2" frameY="-3" frameWidth="488" frameHeight="433"/>
+	<SubTexture name="trap alt down boil0004" x="1003" y="10" width="484" height="433" frameX="-2" frameY="0" frameWidth="488" frameHeight="433"/>
+	<SubTexture name="trap alt down boil0005" x="1003" y="10" width="484" height="433" frameX="-2" frameY="0" frameWidth="488" frameHeight="433"/>
+	<SubTexture name="trap alt down boil0006" x="1497" y="10" width="484" height="433" frameX="-2" frameY="0" frameWidth="488" frameHeight="433"/>
+	<SubTexture name="trap alt down boil0007" x="1497" y="10" width="484" height="433" frameX="-2" frameY="0" frameWidth="488" frameHeight="433"/>
+	<SubTexture name="trap alt down boil0008" x="1991" y="10" width="483" height="432" frameX="-3" frameY="-1" frameWidth="488" frameHeight="433"/>
+	<SubTexture name="trap alt down boil0009" x="1991" y="10" width="483" height="432" frameX="-3" frameY="-1" frameWidth="488" frameHeight="433"/>
+	<SubTexture name="trap alt down boil0010" x="1497" y="10" width="484" height="433" frameX="-2" frameY="0" frameWidth="488" frameHeight="433"/>
+	<SubTexture name="trap alt down boil0011" x="1497" y="10" width="484" height="433" frameX="-2" frameY="0" frameWidth="488" frameHeight="433"/>
+	<SubTexture name="trap alt down boil0012" x="1991" y="10" width="483" height="432" frameX="-3" frameY="-1" frameWidth="488" frameHeight="433"/>
+	<SubTexture name="trap alt down boil0013" x="1991" y="10" width="483" height="432" frameX="-3" frameY="-1" frameWidth="488" frameHeight="433"/>
+	<SubTexture name="trap alt down boil0014" x="1497" y="10" width="484" height="433" frameX="-2" frameY="0" frameWidth="488" frameHeight="433"/>
+	<SubTexture name="trap alt down boil0015" x="1497" y="10" width="484" height="433" frameX="-2" frameY="0" frameWidth="488" frameHeight="433"/>
+	<SubTexture name="trap alt down boil0016" x="1991" y="10" width="483" height="432" frameX="-3" frameY="-1" frameWidth="488" frameHeight="433"/>
+	<SubTexture name="trap alt down boil0017" x="1991" y="10" width="483" height="432" frameX="-3" frameY="-1" frameWidth="488" frameHeight="433"/>
+	<SubTexture name="trap alt down boil0018" x="1497" y="10" width="484" height="433" frameX="-2" frameY="0" frameWidth="488" frameHeight="433"/>
+	<SubTexture name="trap alt down boil0019" x="1497" y="10" width="484" height="433" frameX="-2" frameY="0" frameWidth="488" frameHeight="433"/>
+	<SubTexture name="trap alt down boil0020" x="1991" y="10" width="483" height="432" frameX="-3" frameY="-1" frameWidth="488" frameHeight="433"/>
+	<SubTexture name="trap alt down boil0021" x="1991" y="10" width="483" height="432" frameX="-3" frameY="-1" frameWidth="488" frameHeight="433"/>
+	<SubTexture name="trap alt down boil0022" x="1497" y="10" width="484" height="433" frameX="-2" frameY="0" frameWidth="488" frameHeight="433"/>
+	<SubTexture name="trap alt down boil0023" x="1497" y="10" width="484" height="433" frameX="-2" frameY="0" frameWidth="488" frameHeight="433"/>
+	<SubTexture name="trap alt down boil0024" x="1991" y="10" width="483" height="432" frameX="-3" frameY="-1" frameWidth="488" frameHeight="433"/>
+	<SubTexture name="trap alt down boil0025" x="1991" y="10" width="483" height="432" frameX="-3" frameY="-1" frameWidth="488" frameHeight="433"/>
+	<SubTexture name="trap alt down boil0026" x="1497" y="10" width="484" height="433" frameX="-2" frameY="0" frameWidth="488" frameHeight="433"/>
+	<SubTexture name="trap alt down boil0027" x="1497" y="10" width="484" height="433" frameX="-2" frameY="0" frameWidth="488" frameHeight="433"/>
+	<SubTexture name="trap alt down boil0028" x="1991" y="10" width="483" height="432" frameX="-3" frameY="-1" frameWidth="488" frameHeight="433"/>
+	<SubTexture name="trap alt down boil0029" x="1991" y="10" width="483" height="432" frameX="-3" frameY="-1" frameWidth="488" frameHeight="433"/>
+	<SubTexture name="trap alt idle boil0000" x="2484" y="10" width="291" height="571" frameX="-7" frameY="-11" frameWidth="298" frameHeight="582"/>
+	<SubTexture name="trap alt idle boil0001" x="2484" y="10" width="291" height="571" frameX="-7" frameY="-11" frameWidth="298" frameHeight="582"/>
+	<SubTexture name="trap alt idle boil0002" x="2785" y="10" width="287" height="572" frameX="-11" frameY="-9" frameWidth="298" frameHeight="582"/>
+	<SubTexture name="trap alt idle boil0003" x="2785" y="10" width="287" height="572" frameX="-11" frameY="-9" frameWidth="298" frameHeight="582"/>
+	<SubTexture name="trap alt idle boil0004" x="3082" y="10" width="294" height="579" frameX="-2" frameY="-3" frameWidth="298" frameHeight="582"/>
+	<SubTexture name="trap alt idle boil0005" x="3082" y="10" width="294" height="579" frameX="-2" frameY="-3" frameWidth="298" frameHeight="582"/>
+	<SubTexture name="trap alt idle boil0006" x="3386" y="10" width="294" height="580" frameX="-2" frameY="-1" frameWidth="298" frameHeight="582"/>
+	<SubTexture name="trap alt idle boil0007" x="3386" y="10" width="294" height="580" frameX="-2" frameY="-1" frameWidth="298" frameHeight="582"/>
+	<SubTexture name="trap alt idle boil0008" x="3690" y="10" width="296" height="582" frameX="0" frameY="0" frameWidth="298" frameHeight="582"/>
+	<SubTexture name="trap alt idle boil0009" x="3690" y="10" width="296" height="582" frameX="0" frameY="0" frameWidth="298" frameHeight="582"/>
+	<SubTexture name="trap alt idle boil0010" x="3996" y="10" width="295" height="581" frameX="-1" frameY="0" frameWidth="298" frameHeight="582"/>
+	<SubTexture name="trap alt idle boil0011" x="3996" y="10" width="295" height="581" frameX="-1" frameY="0" frameWidth="298" frameHeight="582"/>
+	<SubTexture name="trap alt idle boil0012" x="4301" y="10" width="296" height="582" frameX="0" frameY="0" frameWidth="298" frameHeight="582"/>
+	<SubTexture name="trap alt idle boil0013" x="4301" y="10" width="296" height="582" frameX="0" frameY="0" frameWidth="298" frameHeight="582"/>
+	<SubTexture name="trap alt left boil0000" x="4607" y="10" width="405" height="534" frameX="0" frameY="-2" frameWidth="406" frameHeight="536"/>
+	<SubTexture name="trap alt left boil0001" x="4607" y="10" width="405" height="534" frameX="0" frameY="-2" frameWidth="406" frameHeight="536"/>
+	<SubTexture name="trap alt left boil0002" x="5022" y="10" width="388" height="536" frameX="-18" frameY="0" frameWidth="406" frameHeight="536"/>
+	<SubTexture name="trap alt left boil0003" x="5022" y="10" width="388" height="536" frameX="-18" frameY="0" frameWidth="406" frameHeight="536"/>
+	<SubTexture name="trap alt left boil0004" x="5420" y="10" width="385" height="536" frameX="-21" frameY="0" frameWidth="406" frameHeight="536"/>
+	<SubTexture name="trap alt left boil0005" x="5420" y="10" width="385" height="536" frameX="-21" frameY="0" frameWidth="406" frameHeight="536"/>
+	<SubTexture name="trap alt left boil0006" x="5815" y="10" width="385" height="536" frameX="-21" frameY="0" frameWidth="406" frameHeight="536"/>
+	<SubTexture name="trap alt left boil0007" x="5815" y="10" width="385" height="536" frameX="-21" frameY="0" frameWidth="406" frameHeight="536"/>
+	<SubTexture name="trap alt left boil0008" x="6210" y="10" width="385" height="536" frameX="-21" frameY="0" frameWidth="406" frameHeight="536"/>
+	<SubTexture name="trap alt left boil0009" x="6210" y="10" width="385" height="536" frameX="-21" frameY="0" frameWidth="406" frameHeight="536"/>
+	<SubTexture name="trap alt left boil0010" x="5815" y="10" width="385" height="536" frameX="-21" frameY="0" frameWidth="406" frameHeight="536"/>
+	<SubTexture name="trap alt left boil0011" x="5815" y="10" width="385" height="536" frameX="-21" frameY="0" frameWidth="406" frameHeight="536"/>
+	<SubTexture name="trap alt left boil0012" x="6210" y="10" width="385" height="536" frameX="-21" frameY="0" frameWidth="406" frameHeight="536"/>
+	<SubTexture name="trap alt left boil0013" x="6210" y="10" width="385" height="536" frameX="-21" frameY="0" frameWidth="406" frameHeight="536"/>
+	<SubTexture name="trap alt left boil0014" x="5815" y="10" width="385" height="536" frameX="-21" frameY="0" frameWidth="406" frameHeight="536"/>
+	<SubTexture name="trap alt left boil0015" x="5815" y="10" width="385" height="536" frameX="-21" frameY="0" frameWidth="406" frameHeight="536"/>
+	<SubTexture name="trap alt left boil0016" x="6210" y="10" width="385" height="536" frameX="-21" frameY="0" frameWidth="406" frameHeight="536"/>
+	<SubTexture name="trap alt left boil0017" x="6210" y="10" width="385" height="536" frameX="-21" frameY="0" frameWidth="406" frameHeight="536"/>
+	<SubTexture name="trap alt left boil0018" x="5815" y="10" width="385" height="536" frameX="-21" frameY="0" frameWidth="406" frameHeight="536"/>
+	<SubTexture name="trap alt left boil0019" x="5815" y="10" width="385" height="536" frameX="-21" frameY="0" frameWidth="406" frameHeight="536"/>
+	<SubTexture name="trap alt left boil0020" x="6210" y="10" width="385" height="536" frameX="-21" frameY="0" frameWidth="406" frameHeight="536"/>
+	<SubTexture name="trap alt left boil0021" x="6210" y="10" width="385" height="536" frameX="-21" frameY="0" frameWidth="406" frameHeight="536"/>
+	<SubTexture name="trap alt left boil0022" x="5815" y="10" width="385" height="536" frameX="-21" frameY="0" frameWidth="406" frameHeight="536"/>
+	<SubTexture name="trap alt left boil0023" x="5815" y="10" width="385" height="536" frameX="-21" frameY="0" frameWidth="406" frameHeight="536"/>
+	<SubTexture name="trap alt left boil0024" x="6210" y="10" width="385" height="536" frameX="-21" frameY="0" frameWidth="406" frameHeight="536"/>
+	<SubTexture name="trap alt left boil0025" x="6210" y="10" width="385" height="536" frameX="-21" frameY="0" frameWidth="406" frameHeight="536"/>
+	<SubTexture name="trap alt left boil0026" x="5815" y="10" width="385" height="536" frameX="-21" frameY="0" frameWidth="406" frameHeight="536"/>
+	<SubTexture name="trap alt left boil0027" x="5815" y="10" width="385" height="536" frameX="-21" frameY="0" frameWidth="406" frameHeight="536"/>
+	<SubTexture name="trap alt left boil0028" x="6210" y="10" width="385" height="536" frameX="-21" frameY="0" frameWidth="406" frameHeight="536"/>
+	<SubTexture name="trap alt left boil0029" x="6210" y="10" width="385" height="536" frameX="-21" frameY="0" frameWidth="406" frameHeight="536"/>
+	<SubTexture name="trap alt right boil0000" x="6605" y="10" width="433" height="523" frameX="-1" frameY="0" frameWidth="434" frameHeight="524"/>
+	<SubTexture name="trap alt right boil0001" x="6605" y="10" width="433" height="523" frameX="-1" frameY="0" frameWidth="434" frameHeight="524"/>
+	<SubTexture name="trap alt right boil0002" x="7048" y="10" width="420" height="523" frameX="0" frameY="0" frameWidth="434" frameHeight="524"/>
+	<SubTexture name="trap alt right boil0003" x="7048" y="10" width="420" height="523" frameX="0" frameY="0" frameWidth="434" frameHeight="524"/>
+	<SubTexture name="trap alt right boil0004" x="7478" y="10" width="415" height="524" frameX="0" frameY="0" frameWidth="434" frameHeight="524"/>
+	<SubTexture name="trap alt right boil0005" x="7478" y="10" width="415" height="524" frameX="0" frameY="0" frameWidth="434" frameHeight="524"/>
+	<SubTexture name="trap alt right boil0006" x="10" y="602" width="416" height="523" frameX="0" frameY="0" frameWidth="434" frameHeight="524"/>
+	<SubTexture name="trap alt right boil0007" x="10" y="602" width="416" height="523" frameX="0" frameY="0" frameWidth="434" frameHeight="524"/>
+	<SubTexture name="trap alt right boil0008" x="436" y="602" width="416" height="523" frameX="0" frameY="0" frameWidth="434" frameHeight="524"/>
+	<SubTexture name="trap alt right boil0009" x="436" y="602" width="416" height="523" frameX="0" frameY="0" frameWidth="434" frameHeight="524"/>
+	<SubTexture name="trap alt right boil0010" x="10" y="602" width="416" height="523" frameX="0" frameY="0" frameWidth="434" frameHeight="524"/>
+	<SubTexture name="trap alt right boil0011" x="10" y="602" width="416" height="523" frameX="0" frameY="0" frameWidth="434" frameHeight="524"/>
+	<SubTexture name="trap alt right boil0012" x="436" y="602" width="416" height="523" frameX="0" frameY="0" frameWidth="434" frameHeight="524"/>
+	<SubTexture name="trap alt right boil0013" x="436" y="602" width="416" height="523" frameX="0" frameY="0" frameWidth="434" frameHeight="524"/>
+	<SubTexture name="trap alt right boil0014" x="10" y="602" width="416" height="523" frameX="0" frameY="0" frameWidth="434" frameHeight="524"/>
+	<SubTexture name="trap alt right boil0015" x="10" y="602" width="416" height="523" frameX="0" frameY="0" frameWidth="434" frameHeight="524"/>
+	<SubTexture name="trap alt right boil0016" x="436" y="602" width="416" height="523" frameX="0" frameY="0" frameWidth="434" frameHeight="524"/>
+	<SubTexture name="trap alt right boil0017" x="436" y="602" width="416" height="523" frameX="0" frameY="0" frameWidth="434" frameHeight="524"/>
+	<SubTexture name="trap alt right boil0018" x="10" y="602" width="416" height="523" frameX="0" frameY="0" frameWidth="434" frameHeight="524"/>
+	<SubTexture name="trap alt right boil0019" x="10" y="602" width="416" height="523" frameX="0" frameY="0" frameWidth="434" frameHeight="524"/>
+	<SubTexture name="trap alt right boil0020" x="436" y="602" width="416" height="523" frameX="0" frameY="0" frameWidth="434" frameHeight="524"/>
+	<SubTexture name="trap alt right boil0021" x="436" y="602" width="416" height="523" frameX="0" frameY="0" frameWidth="434" frameHeight="524"/>
+	<SubTexture name="trap alt right boil0022" x="10" y="602" width="416" height="523" frameX="0" frameY="0" frameWidth="434" frameHeight="524"/>
+	<SubTexture name="trap alt right boil0023" x="10" y="602" width="416" height="523" frameX="0" frameY="0" frameWidth="434" frameHeight="524"/>
+	<SubTexture name="trap alt right boil0024" x="436" y="602" width="416" height="523" frameX="0" frameY="0" frameWidth="434" frameHeight="524"/>
+	<SubTexture name="trap alt right boil0025" x="436" y="602" width="416" height="523" frameX="0" frameY="0" frameWidth="434" frameHeight="524"/>
+	<SubTexture name="trap alt right boil0026" x="10" y="602" width="416" height="523" frameX="0" frameY="0" frameWidth="434" frameHeight="524"/>
+	<SubTexture name="trap alt right boil0027" x="10" y="602" width="416" height="523" frameX="0" frameY="0" frameWidth="434" frameHeight="524"/>
+	<SubTexture name="trap alt right boil0028" x="436" y="602" width="416" height="523" frameX="0" frameY="0" frameWidth="434" frameHeight="524"/>
+	<SubTexture name="trap alt right boil0029" x="436" y="602" width="416" height="523" frameX="0" frameY="0" frameWidth="434" frameHeight="524"/>
+	<SubTexture name="trap alt up boiling0000" x="862" y="602" width="268" height="618"/>
+	<SubTexture name="trap alt up boiling0001" x="862" y="602" width="268" height="618"/>
+	<SubTexture name="trap alt up boiling0002" x="1140" y="602" width="266" height="612" frameX="0" frameY="-6" frameWidth="268" frameHeight="618"/>
+	<SubTexture name="trap alt up boiling0003" x="1140" y="602" width="266" height="612" frameX="0" frameY="-6" frameWidth="268" frameHeight="618"/>
+	<SubTexture name="trap alt up boiling0004" x="1416" y="602" width="265" height="611" frameX="0" frameY="-7" frameWidth="268" frameHeight="618"/>
+	<SubTexture name="trap alt up boiling0005" x="1416" y="602" width="265" height="611" frameX="0" frameY="-7" frameWidth="268" frameHeight="618"/>
+	<SubTexture name="trap alt up boiling0006" x="1691" y="602" width="265" height="611" frameX="0" frameY="-7" frameWidth="268" frameHeight="618"/>
+	<SubTexture name="trap alt up boiling0007" x="1691" y="602" width="265" height="611" frameX="0" frameY="-7" frameWidth="268" frameHeight="618"/>
+	<SubTexture name="trap alt up boiling0008" x="1966" y="602" width="265" height="609" frameX="0" frameY="-8" frameWidth="268" frameHeight="618"/>
+	<SubTexture name="trap alt up boiling0009" x="1691" y="602" width="265" height="611" frameX="0" frameY="-7" frameWidth="268" frameHeight="618"/>
+	<SubTexture name="trap alt up boiling0010" x="1691" y="602" width="265" height="611" frameX="0" frameY="-7" frameWidth="268" frameHeight="618"/>
+	<SubTexture name="trap alt up boiling0011" x="1966" y="602" width="265" height="609" frameX="0" frameY="-8" frameWidth="268" frameHeight="618"/>
+	<SubTexture name="trap alt up boiling0012" x="1691" y="602" width="265" height="611" frameX="0" frameY="-7" frameWidth="268" frameHeight="618"/>
+	<SubTexture name="trap alt up boiling0013" x="1691" y="602" width="265" height="611" frameX="0" frameY="-7" frameWidth="268" frameHeight="618"/>
+	<SubTexture name="trap alt up boiling0014" x="1966" y="602" width="265" height="609" frameX="0" frameY="-8" frameWidth="268" frameHeight="618"/>
+	<SubTexture name="trap alt up boiling0015" x="1691" y="602" width="265" height="611" frameX="0" frameY="-7" frameWidth="268" frameHeight="618"/>
+	<SubTexture name="trap alt up boiling0016" x="1691" y="602" width="265" height="611" frameX="0" frameY="-7" frameWidth="268" frameHeight="618"/>
+	<SubTexture name="trap alt up boiling0017" x="1966" y="602" width="265" height="609" frameX="0" frameY="-8" frameWidth="268" frameHeight="618"/>
+	<SubTexture name="trap alt up boiling0018" x="1691" y="602" width="265" height="611" frameX="0" frameY="-7" frameWidth="268" frameHeight="618"/>
+	<SubTexture name="trap alt up boiling0019" x="1691" y="602" width="265" height="611" frameX="0" frameY="-7" frameWidth="268" frameHeight="618"/>
+	<SubTexture name="trap alt up boiling0020" x="1966" y="602" width="265" height="609" frameX="0" frameY="-8" frameWidth="268" frameHeight="618"/>
+	<SubTexture name="trap alt up boiling0021" x="1691" y="602" width="265" height="611" frameX="0" frameY="-7" frameWidth="268" frameHeight="618"/>
+	<SubTexture name="trap alt up boiling0022" x="1691" y="602" width="265" height="611" frameX="0" frameY="-7" frameWidth="268" frameHeight="618"/>
+	<SubTexture name="trap alt up boiling0023" x="1966" y="602" width="265" height="609" frameX="0" frameY="-8" frameWidth="268" frameHeight="618"/>
+	<SubTexture name="trap alt up boiling0024" x="1691" y="602" width="265" height="611" frameX="0" frameY="-7" frameWidth="268" frameHeight="618"/>
+	<SubTexture name="trap alt up boiling0025" x="1691" y="602" width="265" height="611" frameX="0" frameY="-7" frameWidth="268" frameHeight="618"/>
+	<SubTexture name="trap alt up boiling0026" x="1966" y="602" width="265" height="609" frameX="0" frameY="-8" frameWidth="268" frameHeight="618"/>
+	<SubTexture name="trap alt up boiling0027" x="1691" y="602" width="265" height="611" frameX="0" frameY="-7" frameWidth="268" frameHeight="618"/>
+	<SubTexture name="trap alt up boiling0028" x="1691" y="602" width="265" height="611" frameX="0" frameY="-7" frameWidth="268" frameHeight="618"/>
+	<SubTexture name="trap alt up boiling0029" x="1966" y="602" width="265" height="609" frameX="0" frameY="-8" frameWidth="268" frameHeight="618"/>
+	<SubTexture name="trap down0000" x="2241" y="602" width="349" height="415" frameX="0" frameY="-13" frameWidth="349" frameHeight="428"/>
+	<SubTexture name="trap down0001" x="2241" y="602" width="349" height="415" frameX="0" frameY="-13" frameWidth="349" frameHeight="428"/>
+	<SubTexture name="trap down0002" x="2600" y="602" width="345" height="421" frameX="-1" frameY="-1" frameWidth="349" frameHeight="428"/>
+	<SubTexture name="trap down0003" x="2600" y="602" width="345" height="421" frameX="-1" frameY="-1" frameWidth="349" frameHeight="428"/>
+	<SubTexture name="trap down0004" x="2955" y="602" width="345" height="422" frameX="-1" frameY="0" frameWidth="349" frameHeight="428"/>
+	<SubTexture name="trap down0005" x="2955" y="602" width="345" height="422" frameX="-1" frameY="0" frameWidth="349" frameHeight="428"/>
+	<SubTexture name="trap down0006" x="3310" y="602" width="345" height="422" frameX="-1" frameY="0" frameWidth="349" frameHeight="428"/>
+	<SubTexture name="trap down0007" x="3310" y="602" width="345" height="422" frameX="-1" frameY="0" frameWidth="349" frameHeight="428"/>
+	<SubTexture name="trap down0008" x="3310" y="602" width="345" height="422" frameX="-1" frameY="0" frameWidth="349" frameHeight="428"/>
+	<SubTexture name="trap gr0000" x="3665" y="602" width="287" height="573" frameX="-10" frameY="-13" frameWidth="299" frameHeight="586"/>
+	<SubTexture name="trap gr0001" x="3665" y="602" width="287" height="573" frameX="-10" frameY="-13" frameWidth="299" frameHeight="586"/>
+	<SubTexture name="trap gr0002" x="3962" y="602" width="286" height="571" frameX="-13" frameY="-15" frameWidth="299" frameHeight="586"/>
+	<SubTexture name="trap gr0003" x="3962" y="602" width="286" height="571" frameX="-13" frameY="-15" frameWidth="299" frameHeight="586"/>
+	<SubTexture name="trap gr0004" x="4258" y="602" width="297" height="586" frameX="0" frameY="0" frameWidth="299" frameHeight="586"/>
+	<SubTexture name="trap gr0005" x="4258" y="602" width="297" height="586" frameX="0" frameY="0" frameWidth="299" frameHeight="586"/>
+	<SubTexture name="trap gr0006" x="4565" y="602" width="295" height="578" frameX="-2" frameY="-8" frameWidth="299" frameHeight="586"/>
+	<SubTexture name="trap gr0007" x="4870" y="602" width="295" height="578" frameX="-2" frameY="-8" frameWidth="299" frameHeight="586"/>
+	<SubTexture name="trap gr0008" x="5175" y="602" width="295" height="582" frameX="-2" frameY="-4" frameWidth="299" frameHeight="586"/>
+	<SubTexture name="trap gr0009" x="5175" y="602" width="295" height="582" frameX="-2" frameY="-4" frameWidth="299" frameHeight="586"/>
+	<SubTexture name="trap gr0010" x="5175" y="602" width="295" height="582" frameX="-2" frameY="-4" frameWidth="299" frameHeight="586"/>
+	<SubTexture name="trap gr0011" x="5175" y="602" width="295" height="582" frameX="-2" frameY="-4" frameWidth="299" frameHeight="586"/>
+	<SubTexture name="trap gr0012" x="5175" y="602" width="295" height="582" frameX="-2" frameY="-4" frameWidth="299" frameHeight="586"/>
+	<SubTexture name="trap gr0013" x="5175" y="602" width="295" height="582" frameX="-2" frameY="-4" frameWidth="299" frameHeight="586"/>
+	<SubTexture name="trap idle0000" x="5480" y="602" width="291" height="566" frameX="-6" frameY="-10" frameWidth="297" frameHeight="576"/>
+	<SubTexture name="trap idle0001" x="5480" y="602" width="291" height="566" frameX="-6" frameY="-10" frameWidth="297" frameHeight="576"/>
+	<SubTexture name="trap idle0002" x="5781" y="602" width="287" height="570" frameX="-10" frameY="-6" frameWidth="297" frameHeight="576"/>
+	<SubTexture name="trap idle0003" x="5781" y="602" width="287" height="570" frameX="-10" frameY="-6" frameWidth="297" frameHeight="576"/>
+	<SubTexture name="trap idle0004" x="6078" y="602" width="293" height="575" frameX="-2" frameY="-1" frameWidth="297" frameHeight="576"/>
+	<SubTexture name="trap idle0005" x="6078" y="602" width="293" height="575" frameX="-2" frameY="-1" frameWidth="297" frameHeight="576"/>
+	<SubTexture name="trap idle0006" x="6381" y="602" width="294" height="576" frameX="-1" frameY="0" frameWidth="297" frameHeight="576"/>
+	<SubTexture name="trap idle0007" x="6381" y="602" width="294" height="576" frameX="-1" frameY="0" frameWidth="297" frameHeight="576"/>
+	<SubTexture name="trap idle0008" x="6685" y="602" width="295" height="576" frameX="0" frameY="0" frameWidth="297" frameHeight="576"/>
+	<SubTexture name="trap idle0009" x="6685" y="602" width="295" height="576" frameX="0" frameY="0" frameWidth="297" frameHeight="576"/>
+	<SubTexture name="trap idle0010" x="6990" y="602" width="295" height="576" frameX="0" frameY="0" frameWidth="297" frameHeight="576"/>
+	<SubTexture name="trap idle0011" x="6990" y="602" width="295" height="576" frameX="0" frameY="0" frameWidth="297" frameHeight="576"/>
+	<SubTexture name="trap idle0012" x="7295" y="602" width="295" height="576" frameX="0" frameY="0" frameWidth="297" frameHeight="576"/>
+	<SubTexture name="trap idle0013" x="7295" y="602" width="295" height="576" frameX="0" frameY="0" frameWidth="297" frameHeight="576"/>
+	<SubTexture name="trap left0000" x="7600" y="602" width="334" height="576" frameX="0" frameY="0" frameWidth="335" frameHeight="576"/>
+	<SubTexture name="trap left0001" x="7600" y="602" width="334" height="576" frameX="0" frameY="0" frameWidth="335" frameHeight="576"/>
+	<SubTexture name="trap left0002" x="10" y="1230" width="328" height="576" frameX="-7" frameY="0" frameWidth="335" frameHeight="576"/>
+	<SubTexture name="trap left0003" x="10" y="1230" width="328" height="576" frameX="-7" frameY="0" frameWidth="335" frameHeight="576"/>
+	<SubTexture name="trap left0004" x="348" y="1230" width="327" height="576" frameX="-8" frameY="0" frameWidth="335" frameHeight="576"/>
+	<SubTexture name="trap left0005" x="348" y="1230" width="327" height="576" frameX="-8" frameY="0" frameWidth="335" frameHeight="576"/>
+	<SubTexture name="trap left0006" x="685" y="1230" width="327" height="576" frameX="-8" frameY="0" frameWidth="335" frameHeight="576"/>
+	<SubTexture name="trap left0007" x="685" y="1230" width="327" height="576" frameX="-8" frameY="0" frameWidth="335" frameHeight="576"/>
+	<SubTexture name="trap left0008" x="685" y="1230" width="327" height="576" frameX="-8" frameY="0" frameWidth="335" frameHeight="576"/>
+	<SubTexture name="trap miss down0000" x="1022" y="1230" width="349" height="415" frameX="-2" frameY="-28" frameWidth="351" frameHeight="443"/>
+	<SubTexture name="trap miss down0001" x="1381" y="1230" width="347" height="437" frameX="-2" frameY="0" frameWidth="351" frameHeight="443"/>
+	<SubTexture name="trap miss down0002" x="1381" y="1230" width="347" height="437" frameX="-2" frameY="0" frameWidth="351" frameHeight="443"/>
+	<SubTexture name="trap miss down0003" x="1738" y="1230" width="351" height="434" frameX="0" frameY="-3" frameWidth="351" frameHeight="443"/>
+	<SubTexture name="trap miss down0004" x="1738" y="1230" width="351" height="434" frameX="0" frameY="-3" frameWidth="351" frameHeight="443"/>
+	<SubTexture name="trap miss down0005" x="2099" y="1230" width="351" height="434" frameX="0" frameY="-3" frameWidth="351" frameHeight="443"/>
+	<SubTexture name="trap miss down0006" x="2099" y="1230" width="351" height="434" frameX="0" frameY="-3" frameWidth="351" frameHeight="443"/>
+	<SubTexture name="trap miss down0007" x="1738" y="1230" width="351" height="434" frameX="0" frameY="-3" frameWidth="351" frameHeight="443"/>
+	<SubTexture name="trap miss down0008" x="1738" y="1230" width="351" height="434" frameX="0" frameY="-3" frameWidth="351" frameHeight="443"/>
+	<SubTexture name="trap miss down0009" x="2099" y="1230" width="351" height="434" frameX="0" frameY="-3" frameWidth="351" frameHeight="443"/>
+	<SubTexture name="trap miss down0010" x="2099" y="1230" width="351" height="434" frameX="0" frameY="-3" frameWidth="351" frameHeight="443"/>
+	<SubTexture name="trap miss down0011" x="1738" y="1230" width="351" height="434" frameX="0" frameY="-3" frameWidth="351" frameHeight="443"/>
+	<SubTexture name="trap miss down0012" x="1738" y="1230" width="351" height="434" frameX="0" frameY="-3" frameWidth="351" frameHeight="443"/>
+	<SubTexture name="trap miss down0013" x="2099" y="1230" width="351" height="434" frameX="0" frameY="-3" frameWidth="351" frameHeight="443"/>
+	<SubTexture name="trap miss down0014" x="2099" y="1230" width="351" height="434" frameX="0" frameY="-3" frameWidth="351" frameHeight="443"/>
+	<SubTexture name="trap miss down0015" x="1738" y="1230" width="351" height="434" frameX="0" frameY="-3" frameWidth="351" frameHeight="443"/>
+	<SubTexture name="trap miss down0016" x="1738" y="1230" width="351" height="434" frameX="0" frameY="-3" frameWidth="351" frameHeight="443"/>
+	<SubTexture name="trap miss down0017" x="2099" y="1230" width="351" height="434" frameX="0" frameY="-3" frameWidth="351" frameHeight="443"/>
+	<SubTexture name="trap miss down0018" x="2099" y="1230" width="351" height="434" frameX="0" frameY="-3" frameWidth="351" frameHeight="443"/>
+	<SubTexture name="trap miss down0019" x="1738" y="1230" width="351" height="434" frameX="0" frameY="-3" frameWidth="351" frameHeight="443"/>
+	<SubTexture name="trap miss down0020" x="1738" y="1230" width="351" height="434" frameX="0" frameY="-3" frameWidth="351" frameHeight="443"/>
+	<SubTexture name="trap miss down0021" x="2099" y="1230" width="351" height="434" frameX="0" frameY="-3" frameWidth="351" frameHeight="443"/>
+	<SubTexture name="trap miss down0022" x="2099" y="1230" width="351" height="434" frameX="0" frameY="-3" frameWidth="351" frameHeight="443"/>
+	<SubTexture name="trap miss down0023" x="1738" y="1230" width="351" height="434" frameX="0" frameY="-3" frameWidth="351" frameHeight="443"/>
+	<SubTexture name="trap miss down0024" x="1738" y="1230" width="351" height="434" frameX="0" frameY="-3" frameWidth="351" frameHeight="443"/>
+	<SubTexture name="trap miss down0025" x="2099" y="1230" width="351" height="434" frameX="0" frameY="-3" frameWidth="351" frameHeight="443"/>
+	<SubTexture name="trap miss down0026" x="2099" y="1230" width="351" height="434" frameX="0" frameY="-3" frameWidth="351" frameHeight="443"/>
+	<SubTexture name="trap miss down0027" x="1738" y="1230" width="351" height="434" frameX="0" frameY="-3" frameWidth="351" frameHeight="443"/>
+	<SubTexture name="trap miss down0028" x="1738" y="1230" width="351" height="434" frameX="0" frameY="-3" frameWidth="351" frameHeight="443"/>
+	<SubTexture name="trap miss down0029" x="2099" y="1230" width="351" height="434" frameX="0" frameY="-3" frameWidth="351" frameHeight="443"/>
+	<SubTexture name="trap miss left0000" x="2460" y="1230" width="334" height="576" frameX="0" frameY="-28" frameWidth="334" frameHeight="610"/>
+	<SubTexture name="trap miss left0001" x="2804" y="1230" width="327" height="610" frameX="-3" frameY="0" frameWidth="334" frameHeight="610"/>
+	<SubTexture name="trap miss left0002" x="2804" y="1230" width="327" height="610" frameX="-3" frameY="0" frameWidth="334" frameHeight="610"/>
+	<SubTexture name="trap miss left0003" x="3141" y="1230" width="328" height="610" frameX="-2" frameY="0" frameWidth="334" frameHeight="610"/>
+	<SubTexture name="trap miss left0004" x="3141" y="1230" width="328" height="610" frameX="-2" frameY="0" frameWidth="334" frameHeight="610"/>
+	<SubTexture name="trap miss left0005" x="3479" y="1230" width="328" height="610" frameX="-2" frameY="0" frameWidth="334" frameHeight="610"/>
+	<SubTexture name="trap miss left0006" x="3479" y="1230" width="328" height="610" frameX="-2" frameY="0" frameWidth="334" frameHeight="610"/>
+	<SubTexture name="trap miss left0007" x="3141" y="1230" width="328" height="610" frameX="-2" frameY="0" frameWidth="334" frameHeight="610"/>
+	<SubTexture name="trap miss left0008" x="3141" y="1230" width="328" height="610" frameX="-2" frameY="0" frameWidth="334" frameHeight="610"/>
+	<SubTexture name="trap miss left0009" x="3479" y="1230" width="328" height="610" frameX="-2" frameY="0" frameWidth="334" frameHeight="610"/>
+	<SubTexture name="trap miss left0010" x="3479" y="1230" width="328" height="610" frameX="-2" frameY="0" frameWidth="334" frameHeight="610"/>
+	<SubTexture name="trap miss left0011" x="3141" y="1230" width="328" height="610" frameX="-2" frameY="0" frameWidth="334" frameHeight="610"/>
+	<SubTexture name="trap miss left0012" x="3141" y="1230" width="328" height="610" frameX="-2" frameY="0" frameWidth="334" frameHeight="610"/>
+	<SubTexture name="trap miss left0013" x="3479" y="1230" width="328" height="610" frameX="-2" frameY="0" frameWidth="334" frameHeight="610"/>
+	<SubTexture name="trap miss left0014" x="3479" y="1230" width="328" height="610" frameX="-2" frameY="0" frameWidth="334" frameHeight="610"/>
+	<SubTexture name="trap miss left0015" x="3141" y="1230" width="328" height="610" frameX="-2" frameY="0" frameWidth="334" frameHeight="610"/>
+	<SubTexture name="trap miss left0016" x="3141" y="1230" width="328" height="610" frameX="-2" frameY="0" frameWidth="334" frameHeight="610"/>
+	<SubTexture name="trap miss left0017" x="3479" y="1230" width="328" height="610" frameX="-2" frameY="0" frameWidth="334" frameHeight="610"/>
+	<SubTexture name="trap miss left0018" x="3479" y="1230" width="328" height="610" frameX="-2" frameY="0" frameWidth="334" frameHeight="610"/>
+	<SubTexture name="trap miss left0019" x="3141" y="1230" width="328" height="610" frameX="-2" frameY="0" frameWidth="334" frameHeight="610"/>
+	<SubTexture name="trap miss left0020" x="3141" y="1230" width="328" height="610" frameX="-2" frameY="0" frameWidth="334" frameHeight="610"/>
+	<SubTexture name="trap miss left0021" x="3479" y="1230" width="328" height="610" frameX="-2" frameY="0" frameWidth="334" frameHeight="610"/>
+	<SubTexture name="trap miss left0022" x="3479" y="1230" width="328" height="610" frameX="-2" frameY="0" frameWidth="334" frameHeight="610"/>
+	<SubTexture name="trap miss left0023" x="3141" y="1230" width="328" height="610" frameX="-2" frameY="0" frameWidth="334" frameHeight="610"/>
+	<SubTexture name="trap miss left0024" x="3141" y="1230" width="328" height="610" frameX="-2" frameY="0" frameWidth="334" frameHeight="610"/>
+	<SubTexture name="trap miss left0025" x="3479" y="1230" width="328" height="610" frameX="-2" frameY="0" frameWidth="334" frameHeight="610"/>
+	<SubTexture name="trap miss left0026" x="3479" y="1230" width="328" height="610" frameX="-2" frameY="0" frameWidth="334" frameHeight="610"/>
+	<SubTexture name="trap miss left0027" x="3141" y="1230" width="328" height="610" frameX="-2" frameY="0" frameWidth="334" frameHeight="610"/>
+	<SubTexture name="trap miss left0028" x="3141" y="1230" width="328" height="610" frameX="-2" frameY="0" frameWidth="334" frameHeight="610"/>
+	<SubTexture name="trap miss left0029" x="3479" y="1230" width="328" height="610" frameX="-2" frameY="0" frameWidth="334" frameHeight="610"/>
+	<SubTexture name="trap miss right0000" x="3817" y="1230" width="329" height="574" frameX="0" frameY="-25" frameWidth="329" frameHeight="605"/>
+	<SubTexture name="trap miss right0001" x="4156" y="1230" width="327" height="605" frameX="-1" frameY="0" frameWidth="329" frameHeight="605"/>
+	<SubTexture name="trap miss right0002" x="4156" y="1230" width="327" height="605" frameX="-1" frameY="0" frameWidth="329" frameHeight="605"/>
+	<SubTexture name="trap miss right0003" x="4493" y="1230" width="327" height="605" frameX="-2" frameY="0" frameWidth="329" frameHeight="605"/>
+	<SubTexture name="trap miss right0004" x="4493" y="1230" width="327" height="605" frameX="-2" frameY="0" frameWidth="329" frameHeight="605"/>
+	<SubTexture name="trap miss right0005" x="4830" y="1230" width="327" height="605" frameX="-2" frameY="0" frameWidth="329" frameHeight="605"/>
+	<SubTexture name="trap miss right0006" x="4830" y="1230" width="327" height="605" frameX="-2" frameY="0" frameWidth="329" frameHeight="605"/>
+	<SubTexture name="trap miss right0007" x="4493" y="1230" width="327" height="605" frameX="-2" frameY="0" frameWidth="329" frameHeight="605"/>
+	<SubTexture name="trap miss right0008" x="4493" y="1230" width="327" height="605" frameX="-2" frameY="0" frameWidth="329" frameHeight="605"/>
+	<SubTexture name="trap miss right0009" x="4830" y="1230" width="327" height="605" frameX="-2" frameY="0" frameWidth="329" frameHeight="605"/>
+	<SubTexture name="trap miss right0010" x="4830" y="1230" width="327" height="605" frameX="-2" frameY="0" frameWidth="329" frameHeight="605"/>
+	<SubTexture name="trap miss right0011" x="4493" y="1230" width="327" height="605" frameX="-2" frameY="0" frameWidth="329" frameHeight="605"/>
+	<SubTexture name="trap miss right0012" x="4493" y="1230" width="327" height="605" frameX="-2" frameY="0" frameWidth="329" frameHeight="605"/>
+	<SubTexture name="trap miss right0013" x="4830" y="1230" width="327" height="605" frameX="-2" frameY="0" frameWidth="329" frameHeight="605"/>
+	<SubTexture name="trap miss right0014" x="4830" y="1230" width="327" height="605" frameX="-2" frameY="0" frameWidth="329" frameHeight="605"/>
+	<SubTexture name="trap miss right0015" x="4493" y="1230" width="327" height="605" frameX="-2" frameY="0" frameWidth="329" frameHeight="605"/>
+	<SubTexture name="trap miss right0016" x="4493" y="1230" width="327" height="605" frameX="-2" frameY="0" frameWidth="329" frameHeight="605"/>
+	<SubTexture name="trap miss right0017" x="4830" y="1230" width="327" height="605" frameX="-2" frameY="0" frameWidth="329" frameHeight="605"/>
+	<SubTexture name="trap miss right0018" x="4830" y="1230" width="327" height="605" frameX="-2" frameY="0" frameWidth="329" frameHeight="605"/>
+	<SubTexture name="trap miss right0019" x="4493" y="1230" width="327" height="605" frameX="-2" frameY="0" frameWidth="329" frameHeight="605"/>
+	<SubTexture name="trap miss right0020" x="4493" y="1230" width="327" height="605" frameX="-2" frameY="0" frameWidth="329" frameHeight="605"/>
+	<SubTexture name="trap miss right0021" x="4830" y="1230" width="327" height="605" frameX="-2" frameY="0" frameWidth="329" frameHeight="605"/>
+	<SubTexture name="trap miss right0022" x="4830" y="1230" width="327" height="605" frameX="-2" frameY="0" frameWidth="329" frameHeight="605"/>
+	<SubTexture name="trap miss right0023" x="4493" y="1230" width="327" height="605" frameX="-2" frameY="0" frameWidth="329" frameHeight="605"/>
+	<SubTexture name="trap miss right0024" x="4493" y="1230" width="327" height="605" frameX="-2" frameY="0" frameWidth="329" frameHeight="605"/>
+	<SubTexture name="trap miss right0025" x="4830" y="1230" width="327" height="605" frameX="-2" frameY="0" frameWidth="329" frameHeight="605"/>
+	<SubTexture name="trap miss right0026" x="4830" y="1230" width="327" height="605" frameX="-2" frameY="0" frameWidth="329" frameHeight="605"/>
+	<SubTexture name="trap miss right0027" x="4493" y="1230" width="327" height="605" frameX="-2" frameY="0" frameWidth="329" frameHeight="605"/>
+	<SubTexture name="trap miss right0028" x="4493" y="1230" width="327" height="605" frameX="-2" frameY="0" frameWidth="329" frameHeight="605"/>
+	<SubTexture name="trap miss right0029" x="4830" y="1230" width="327" height="605" frameX="-2" frameY="0" frameWidth="329" frameHeight="605"/>
+	<SubTexture name="trap miss up0000" x="5167" y="1230" width="311" height="579" frameX="-6" frameY="-22" frameWidth="317" frameHeight="601"/>
+	<SubTexture name="trap miss up0001" x="5488" y="1230" width="316" height="596" frameX="0" frameY="-1" frameWidth="317" frameHeight="601"/>
+	<SubTexture name="trap miss up0002" x="5488" y="1230" width="316" height="596" frameX="0" frameY="-1" frameWidth="317" frameHeight="601"/>
+	<SubTexture name="trap miss up0003" x="5814" y="1230" width="314" height="597" frameX="-1" frameY="0" frameWidth="317" frameHeight="601"/>
+	<SubTexture name="trap miss up0004" x="5814" y="1230" width="314" height="597" frameX="-1" frameY="0" frameWidth="317" frameHeight="601"/>
+	<SubTexture name="trap miss up0005" x="6138" y="1230" width="314" height="597" frameX="-1" frameY="0" frameWidth="317" frameHeight="601"/>
+	<SubTexture name="trap miss up0006" x="6138" y="1230" width="314" height="597" frameX="-1" frameY="0" frameWidth="317" frameHeight="601"/>
+	<SubTexture name="trap miss up0007" x="5814" y="1230" width="314" height="597" frameX="-1" frameY="0" frameWidth="317" frameHeight="601"/>
+	<SubTexture name="trap miss up0008" x="5814" y="1230" width="314" height="597" frameX="-1" frameY="0" frameWidth="317" frameHeight="601"/>
+	<SubTexture name="trap miss up0009" x="6138" y="1230" width="314" height="597" frameX="-1" frameY="0" frameWidth="317" frameHeight="601"/>
+	<SubTexture name="trap miss up0010" x="6138" y="1230" width="314" height="597" frameX="-1" frameY="0" frameWidth="317" frameHeight="601"/>
+	<SubTexture name="trap miss up0011" x="5814" y="1230" width="314" height="597" frameX="-1" frameY="0" frameWidth="317" frameHeight="601"/>
+	<SubTexture name="trap miss up0012" x="5814" y="1230" width="314" height="597" frameX="-1" frameY="0" frameWidth="317" frameHeight="601"/>
+	<SubTexture name="trap miss up0013" x="6138" y="1230" width="314" height="597" frameX="-1" frameY="0" frameWidth="317" frameHeight="601"/>
+	<SubTexture name="trap miss up0014" x="6138" y="1230" width="314" height="597" frameX="-1" frameY="0" frameWidth="317" frameHeight="601"/>
+	<SubTexture name="trap miss up0015" x="5814" y="1230" width="314" height="597" frameX="-1" frameY="0" frameWidth="317" frameHeight="601"/>
+	<SubTexture name="trap miss up0016" x="5814" y="1230" width="314" height="597" frameX="-1" frameY="0" frameWidth="317" frameHeight="601"/>
+	<SubTexture name="trap miss up0017" x="6138" y="1230" width="314" height="597" frameX="-1" frameY="0" frameWidth="317" frameHeight="601"/>
+	<SubTexture name="trap miss up0018" x="6138" y="1230" width="314" height="597" frameX="-1" frameY="0" frameWidth="317" frameHeight="601"/>
+	<SubTexture name="trap miss up0019" x="5814" y="1230" width="314" height="597" frameX="-1" frameY="0" frameWidth="317" frameHeight="601"/>
+	<SubTexture name="trap miss up0020" x="5814" y="1230" width="314" height="597" frameX="-1" frameY="0" frameWidth="317" frameHeight="601"/>
+	<SubTexture name="trap miss up0021" x="6138" y="1230" width="314" height="597" frameX="-1" frameY="0" frameWidth="317" frameHeight="601"/>
+	<SubTexture name="trap miss up0022" x="6138" y="1230" width="314" height="597" frameX="-1" frameY="0" frameWidth="317" frameHeight="601"/>
+	<SubTexture name="trap miss up0023" x="5814" y="1230" width="314" height="597" frameX="-1" frameY="0" frameWidth="317" frameHeight="601"/>
+	<SubTexture name="trap miss up0024" x="5814" y="1230" width="314" height="597" frameX="-1" frameY="0" frameWidth="317" frameHeight="601"/>
+	<SubTexture name="trap miss up0025" x="6138" y="1230" width="314" height="597" frameX="-1" frameY="0" frameWidth="317" frameHeight="601"/>
+	<SubTexture name="trap miss up0026" x="6138" y="1230" width="314" height="597" frameX="-1" frameY="0" frameWidth="317" frameHeight="601"/>
+	<SubTexture name="trap miss up0027" x="5814" y="1230" width="314" height="597" frameX="-1" frameY="0" frameWidth="317" frameHeight="601"/>
+	<SubTexture name="trap miss up0028" x="5814" y="1230" width="314" height="597" frameX="-1" frameY="0" frameWidth="317" frameHeight="601"/>
+	<SubTexture name="trap miss up0029" x="6138" y="1230" width="314" height="597" frameX="-1" frameY="0" frameWidth="317" frameHeight="601"/>
+	<SubTexture name="trap right0000" x="6462" y="1230" width="329" height="574" frameX="-13" frameY="-1" frameWidth="345" frameHeight="575"/>
+	<SubTexture name="trap right0001" x="6462" y="1230" width="329" height="574" frameX="-13" frameY="-1" frameWidth="345" frameHeight="575"/>
+	<SubTexture name="trap right0002" x="6801" y="1230" width="343" height="575" frameX="-1" frameY="0" frameWidth="345" frameHeight="575"/>
+	<SubTexture name="trap right0003" x="6801" y="1230" width="343" height="575" frameX="-1" frameY="0" frameWidth="345" frameHeight="575"/>
+	<SubTexture name="trap right0004" x="7154" y="1230" width="345" height="575"/>
+	<SubTexture name="trap right0005" x="7154" y="1230" width="345" height="575"/>
+	<SubTexture name="trap right0006" x="7509" y="1230" width="345" height="575"/>
+	<SubTexture name="trap right0007" x="7509" y="1230" width="345" height="575"/>
+	<SubTexture name="trap right0008" x="7509" y="1230" width="345" height="575"/>
+	<SubTexture name="trap up0000" x="7864" y="1230" width="311" height="579" frameX="-3" frameY="0" frameWidth="318" frameHeight="579"/>
+	<SubTexture name="trap up0001" x="7864" y="1230" width="311" height="579" frameX="-3" frameY="0" frameWidth="318" frameHeight="579"/>
+	<SubTexture name="trap up0002" x="10" y="1850" width="317" height="575" frameX="-1" frameY="-4" frameWidth="318" frameHeight="579"/>
+	<SubTexture name="trap up0003" x="10" y="1850" width="317" height="575" frameX="-1" frameY="-4" frameWidth="318" frameHeight="579"/>
+	<SubTexture name="trap up0004" x="337" y="1850" width="318" height="574" frameX="0" frameY="-5" frameWidth="318" frameHeight="579"/>
+	<SubTexture name="trap up0005" x="337" y="1850" width="318" height="574" frameX="0" frameY="-5" frameWidth="318" frameHeight="579"/>
+	<SubTexture name="trap up0006" x="665" y="1850" width="318" height="574" frameX="0" frameY="-5" frameWidth="318" frameHeight="579"/>
+	<SubTexture name="trap up0007" x="665" y="1850" width="318" height="574" frameX="0" frameY="-5" frameWidth="318" frameHeight="579"/>
+	<SubTexture name="trap up0008" x="665" y="1850" width="318" height="574" frameX="0" frameY="-5" frameWidth="318" frameHeight="579"/>
+</TextureAtlas>
