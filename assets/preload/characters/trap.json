@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				-50
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "trap alt left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-7
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "trap alt idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				-170
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "trap alt down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				30
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "trap alt up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-60
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "trap alt right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-12
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "trap left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-12
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "trap idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-166
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "trap down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				-11
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "trap up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				-14
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "trap right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				3,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "gr",
+			"indices": [],
+			"name": "trap gr"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				18
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "trap miss left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-150
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "trap miss down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				10
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "trap miss up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				10
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "trap miss right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/trap",
+	"position": [
+		170,
+		180
+	],
+	"healthicon": "blackman",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		81,
+		41
+	],
+	"camera_position": [
+		290,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
